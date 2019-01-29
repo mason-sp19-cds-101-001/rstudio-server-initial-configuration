@@ -1,5 +1,5 @@
-First-time RStudio Server Configuration
-=======================================
+RStudio Server Initial Configuraiton
+====================================
 
 Overview
 --------
@@ -21,8 +21,8 @@ Instructions
 ------------
 
 Navigate to RStudio Server at <https://rstudio.cos.gmu.edu> and login using your NetID and password.
-If you cannot login, please post a message in the [\#r-rstudio-github-help](https://masoncds101.slack.com/messages/CASUNTFNX) Slack channel.
-Once you are logged in, clone this repository as a new project in RStudio Server by clicking on the **New Project** button, then **Version Control**, then **Git**, and then paste <https://github.com/mason-fa18-cds-101-dl1/configure-rstudio-server.git> into the *Repository URL* box, and finally click **Create Project**.
+If you cannot login, please post a message in the [\#r-rstudio-github-help](https://sp19-masoncds101.slack.com/messages/CFJKJV97T) Slack channel.
+Once you are logged in, clone this repository as a new project in RStudio Server by clicking on the **New Project** button, then **Version Control**, then **Git**, and then paste <https://github.com/mason-sp19-cds-101-001/rstudio-server-initial-configuration.git> into the *Repository URL* box, and finally click **Create Project**.
 
 ![](img/rstudio_server_config_clone.gif)
 
