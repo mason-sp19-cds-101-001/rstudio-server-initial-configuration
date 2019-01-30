@@ -22,5 +22,3 @@ Imports:
   tidyr (>= 0.8.2),
   tidyverse (>= 1.2.1),
   xaringan (>= 0.8)
-Remotes:
-
