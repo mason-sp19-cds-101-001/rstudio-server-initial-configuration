@@ -1,4 +1,4 @@
-RStudio Server Initial Configuraiton
+RStudio Server Initial Configuration
 ====================================
 
 Overview
@@ -51,9 +51,9 @@ When you run the above function, you will see input prompts asking for the follo
 
 Input your information and verify that it is correct, then wait for the configuration and installation procedure to complete, which will take a few minutes.
 
-Once the installation procedure is complete, click the red button — it says **Quit the current R session** if you hover your mouse over it — on the upper right of the page to refresh RStudio Server.
+Once the installation procedure is complete, look for **Session** in the top menu bar, click it, and then click *Restart R* in the drop-down menu.
 
-![](img/rstudio_red_button.png)
+![](img/rstudio_session_menu.png)
 
 RStudio Server is now configured for use in CDS 101!
 
